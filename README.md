@@ -1,5 +1,9 @@
 # What it is
  * Haml (HTML abstraction markup language) is based on one primary principle: markup should be beautiful. It’s not just beauty for beauty’s sake either; Haml accelerates and simplifies template creation down to veritable haiku.
+ * Why I like HAML:
+    - Much easier to write and read then erb
+    - Faster to work with
+    - Looks clean and crisp
 
 # Getting Set Up With HAML
  * In your rails Gemfile add the HAML gem
